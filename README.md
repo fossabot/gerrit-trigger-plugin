@@ -1,4 +1,6 @@
 # Gerrit Trigger Plugin
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FBeckNT%2Fgerrit-trigger-plugin.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FBeckNT%2Fgerrit-trigger-plugin?ref=badge_shield)
+
 
 This plugin triggers builds on events from the Gerrit code review system by
 retrieving events from the Gerrit command "stream-events", so the trigger is
@@ -94,3 +96,6 @@ To test in a local Jenkins instance
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
     THE SOFTWARE.
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FBeckNT%2Fgerrit-trigger-plugin.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FBeckNT%2Fgerrit-trigger-plugin?ref=badge_large)
